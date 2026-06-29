@@ -1,0 +1,11 @@
+rajfriend1 = "January 15"
+rajfriend2 = "March 22"
+rajfriend3 = "May 10"
+rajfriend4 = "August 5"
+rajfriend5 = "December 30"
+
+print("Birthday Of Friend 1:", rajfriend1)
+print("Birthday Of Friend 2:", rajfriend2)
+print("Birthday Of Friend 3:", rajfriend3)
+print("Birthday Of Friend 4:", rajfriend4)
+print("Birthday Of Friend 5:", rajfriend5)
