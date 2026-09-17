@@ -1,0 +1,12 @@
+file = open("test.txt", "a")
+file.write("I am Vignesh\n")
+file.close()
+
+file = open("test.txt", "r")
+print(file.readlines())
+print(file.readline())
+print(file.readline())
+print(file.readline())
+print(file.readline())
+print(file.readline())
+file.close()
