@@ -1,0 +1,7 @@
+IMPORTANT: Complete the Python assignment.
+TODO: Practise file handling.
+GENERAL: Revise programming concepts.
+IMPORTANT: Submit the practical file.
+SKIP: This task is not required.
+TODO: Learn file operations.
+IMPORTANT: Prepare for the examination.

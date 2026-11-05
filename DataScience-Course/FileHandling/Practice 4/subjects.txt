@@ -1,0 +1,4 @@
+Python is used for programming.
+Mathematics improves logical thinking.
+Computer Science develops problem-solving skills.
+File handling is an important Python topic.
